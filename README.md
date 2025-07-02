@@ -97,21 +97,16 @@ plotly>=5.0.0           # Visualizações interativas (opcional)
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/telecom-churn-analysis.git
-cd telecom-churn-analysis
+git clone https://github.com/AlexandreCalmonJr/TelecomX_oracle_challenge_2.git
+cd TelecomX_oracle_challenge_2
 ```
 
-2. **Instale as dependências:**
-```bash
-pip install -r requirements.txt
-```
-
-3. **Inicie o Jupyter:**
+2. **Inicie o Jupyter:**
 ```bash
 jupyter notebook
 ```
 
-4. **Execute o notebook:**
+3. **Execute o notebook:**
 - Abra `TelecomX_BR.ipynb`
 - Execute as células sequencialmente (`Shift + Enter`)
 - Aguarde o processamento completo (~5-10 minutos)
@@ -154,10 +149,9 @@ Contribuições são bem-vindas! Para contribuir:
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-
 ## 📞 Contato
 
 **Desenvolvido por**: Alexandre Calmon
 - 📧 Email: alexandrecalmonjunior@gmail.com
-- 💼 LinkedIn: [seu-perfil](https://linkedin.com/in/alexandre-calmon)
-- 🐙 GitHub: [@seu-usuario](https://github.com/AlexandreCalmonJr)
+- 💼 LinkedIn: [Alexandre Calmon](https://linkedin.com/in/alexandre-calmon)
+- 🐙 GitHub: [@AlexandreCalmonJr](https://github.com/AlexandreCalmonJr)
